@@ -13,7 +13,7 @@ Built using **HTML, CSS, and Vanilla JavaScript**.
 
 ## 🌐 Live Demo
 
-👉 **Live Site:** []()
+👉 **Live Site:** [https://dileep-kumawat.github.io/Search-Box-with-Auto-Suggestions-using-html-css-and-js/](https://dileep-kumawat.github.io/Search-Box-with-Auto-Suggestions-using-html-css-and-js/)
 
 ---
 
@@ -70,7 +70,7 @@ Implements a modern aesthetic with glass effects, gradients, and animations
 1. **Clone the project**
 
 ```bash
-git clone 
+git clone https://github.com/Dileep-kumawat/Search-Box-with-Auto-Suggestions-using-html-css-and-js.git
 ```
 
 2. **Open the project**
